@@ -3,10 +3,16 @@ body {
     color: #808080;
 }
 
-img.margin-set {
+.margin-set {
     margin: 20px;
 }
 
-p.margin-set {
-    margin: 20px;
+.margin-set.line-height {
+    line-height: 0.2;
 }
+
+table, td, th{
+    border: 1px solid black;
+}
+
+
