@@ -2,3 +2,11 @@ body {
     background-color: #FDF5E6;
     color: #808080;
 }
+
+img.margin-set {
+    margin: 20px;
+}
+
+p.margin-set {
+    margin: 20px;
+}
